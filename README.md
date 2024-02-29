@@ -1,4 +1,4 @@
-**Text Analysis of News Articles**  
+#ext Analysis of News Articles 
 This section delves into the analysis of news articles extracted from the "articles1.csv" dataset sourced from Kaggle. Utilizing NLTK (Natural Language Toolkit) for tokenization, the text was standardized to lowercase for consistency.
 
 **Tokenization Results**  
